@@ -1,0 +1,7 @@
+{
+    "root": "dist/location_tracking_admin/",
+    "routes": {
+      "/**": "index.html"
+    }
+  }
+  
